@@ -22,3 +22,7 @@ var_dump($name1, $name2); // php type dackta var_dump()
     7.Object
     8.Resource
 */
+
+$fname = "Nadim";
+$lname = "Joy.";
+printf("His %s Name is %s %s", "Full", $fname, $lname); // printf a %s a replace system.
