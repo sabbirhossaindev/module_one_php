@@ -1,5 +1,5 @@
 <?php
-function sum ($int ...$numbers):int{
+function sum ($int ...$n):int{
     $result = 0;
     $result = 0;
     $result = 0;
