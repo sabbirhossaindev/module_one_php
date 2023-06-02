@@ -12,6 +12,7 @@ echo "{$qs}\n";
 var_dump($name1, $name2); // php type dackta var_dump()
 
 // php data type explore
+// php data type explore
 /*
     1.Integer Int
     2.Double / Float
